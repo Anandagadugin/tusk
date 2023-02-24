@@ -5,4 +5,4 @@ I have added few changes to Javascript code :
 1. Added Javascript code to print details
 2. Added javascript code to return employee details
 
-Thanks
+Thanks :)
